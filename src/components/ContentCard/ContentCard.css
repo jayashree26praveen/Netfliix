@@ -1,0 +1,16 @@
+.about{
+    background-color: black;
+    padding-top: 20px;
+}
+.about h1 {
+    margin-bottom: 20px; /* Add top margin */
+    color: white; /* Example: dark text color */
+    font-size: 2rem; /* Adjust font size */
+}
+.card{
+    background: linear-gradient(149deg, #192247 0%, #210e17 99.08%);
+    color: white;
+    border-radius: 10px;
+    height: 100%;
+   
+}

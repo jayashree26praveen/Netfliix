@@ -1,0 +1,13 @@
+
+/* Change the color of the icons */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color:rgba(255, 255, 255, 0.1);/* Change to your desired color */
+    width: 34px;
+    height: 140px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+.carousel{
+    background-color: black;
+}
